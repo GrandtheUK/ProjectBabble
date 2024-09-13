@@ -1,0 +1,13 @@
+onnxruntime
+opencv_python
+Pillow
+pysimplegui-4-foss
+python_osc
+torch
+torchvision
+pydantic
+pyserial
+colorama
+winotify
+poetry
+v4l2py
